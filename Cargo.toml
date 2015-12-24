@@ -7,3 +7,4 @@ authors = [ "Rémi Parpaillon <remi.parpaillon@gmail.com>" ]
 [dependencies]
 
 rand="*"
+num_cpus = "*"
